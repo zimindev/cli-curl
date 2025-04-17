@@ -180,4 +180,3 @@ curl -w "@curl-format.txt" -o /dev/null -s https://example.com
 
 - `wget` — Great for downloading and mirroring websites  
 - `httpie` — User-friendly CLI for APIs
-```
