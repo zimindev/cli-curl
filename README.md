@@ -170,7 +170,8 @@ curl -w "@curl-format.txt" -o /dev/null -s https://example.com
 
 ## 📚 More Info
 
-- Website: [https://curl.se](https://curl.se)  
+- Website: [https://curl.se](https://curl.se)
+- GitHub: [https://github.com/curl/curl](https://github.com/curl/curl)
 - Man Page: `man curl`  
 - Help: `curl --help`
 
